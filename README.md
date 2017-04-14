@@ -5,7 +5,7 @@ This takes a keypress and waits until release to see if it's held for [.4 second
 
 The format for adding a key is:
 
-[KeyPressed]::NewKeyPress([KeyPressed-MinusModifier],[KeyMod1],[KeyResult1],[KeyMod2],[KeyResult2])
+[KeyPressed>::NewKeyPress([KeyPressed-MinusModifier],[KeyMod1],[KeyResult1],[KeyMod2],[KeyResult2])
 
 And an example is:
 
